@@ -1,7 +1,5 @@
 # Functions
-Basic Math functions such as addition and subtraction as performed in Swift. Must be ran in Xcode as this is not a full app but a basic display of competency.
-
-The code is below.
+Basic Math functions such as addition and subtraction as performed in Swift. Must be ran in Xcode as this is not a full app but a basic display of competency. The code is below.
 
 
 import UIKit
